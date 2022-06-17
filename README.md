@@ -1,2 +1,2 @@
 # Password-Generator-Week-3
-To create a random password based off of selection criteria. 
+This password generator takes the user through a series of prompts, which allows the user to select the criteria to generate a random password. The password can be from 8 characters to 128 characters. The user can also choose whether to include uppercase or lowercase letters, numbers, and symbols. The password is generated after the user clicks the 'generate password' button and follows the prompts. 
